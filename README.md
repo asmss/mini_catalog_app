@@ -1,7 +1,8 @@
 # mini_katalog_app
 
-A new Flutter project.
+Uygulama; dinamik listeleme, sayfa yönetimi ve veri modelleme pratiklerini içermektedir. Kullanıcıların ürünleri listeleyebildiği, detaylarını inceleyebildiği ve basit bir sepet simülasyonunu deneyimlediği bir yapı sunar.
 
+- **Kullanılan flutter sürümü** Flutter 3.41.4
 ## Getting Started
 
 This project is a starting point for a Flutter application.
