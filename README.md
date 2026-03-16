@@ -7,10 +7,10 @@ The application incorporates dynamic listing, page management, and data modeling
 ## Operating Steps
 
 To set up the project in your local environment, you can follow these steps in order:
-1 - flutter doctor
-2 - git clone https://github.com/asmss/mini_catalog_app
-3 - cd mini_katalog_app flutter pub get
-4 - flutter run (önce emülatörü açın)
+- flutter doctor
+- git clone https://github.com/asmss/mini_catalog_app
+- cd mini_katalog_app flutter pub get
+- flutter run (önce emülatörü açın)
 
 A few resources to get you started if this is your first Flutter project:
 
