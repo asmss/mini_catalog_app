@@ -3,7 +3,7 @@
 The application incorporates dynamic listing, page management, and data modeling practices. It provides a structure where users can list products, examine their details, and experience a simple shopping cart simulation.
 
 - **Flutter version used:** Flutter 3.41.4
-- 
+  
 ## Operating Steps
 
 To set up the project in your local environment, you can follow these steps in order:
