@@ -1,11 +1,16 @@
 # mini_katalog_app
 
-Uygulama; dinamik listeleme, sayfa yönetimi ve veri modelleme pratiklerini içermektedir. Kullanıcıların ürünleri listeleyebildiği, detaylarını inceleyebildiği ve basit bir sepet simülasyonunu deneyimlediği bir yapı sunar.
+The application incorporates dynamic listing, page management, and data modeling practices. It provides a structure where users can list products, examine their details, and experience a simple shopping cart simulation.
 
-- **Kullanılan flutter sürümü** Flutter 3.41.4
-## Getting Started
+- **Flutter version used:** Flutter 3.41.4
+- 
+## Operating Steps
 
-This project is a starting point for a Flutter application.
+To set up the project in your local environment, you can follow these steps in order:
+1- flutter doctor
+2- git clone https://github.com/asmss/mini_catalog_app
+3- cd mini_katalog_app flutter pub get
+4- flutter run (önce emülatörü açın)
 
 A few resources to get you started if this is your first Flutter project:
 
