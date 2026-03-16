@@ -16,4 +16,4 @@ To set up the project in your local environment, you can follow these steps in o
 
 | Ana Sayfa | Ürün Detay | Sepet (Simülasyon) |
 | :---: | :---: | :---: |
-| <img src="assets/screenshots/home.png" width="200"> | <img src="assets/screenshots/detail.png" width="200"> | <img src="assets/screenshots/cart.png" width="200"> |
+| <img src="assets/img/home2.jpeg" width="200"> | <img src="assets/screenshots/detail.png" width="200"> | <img src="assets/screenshots/cart.png" width="200"> |
