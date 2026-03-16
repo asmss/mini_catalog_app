@@ -1,4 +1,4 @@
-# mini_katalog_app
+# Mini Katalog App
 
 The application incorporates dynamic listing, page management, and data modeling practices. It provides a structure where users can list products, examine their details, and experience a simple shopping cart simulation.
 
@@ -10,12 +10,12 @@ To set up the project in your local environment, you can follow these steps in o
 - flutter doctor
 - git clone https://github.com/asmss/mini_catalog_app
 - cd mini_katalog_app flutter pub get
-- flutter run (önce emülatörü açın)
+- flutter run (First, open the emulator)
 
-## Uygulama Ekran Görüntüleri
+## Application Screenshots
 
 
-<img src="assets/img/home.jpeg" width="200"> 
+<img src="assets/img/home.jpeg" width="200" height="100"> 
 <img src="assets/img/home2.jpeg" width="200"> 
 <img src="assets/img/sepet1.jpeg" width="200">
 <img src="assets/img/sepet2.jpeg" width="200">
